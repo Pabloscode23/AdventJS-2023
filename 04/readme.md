@@ -1,6 +1,6 @@
 # Dale vuelta a los paréntesis
 
-**Nivel:** **_Fácil_**
+**Nivel:** **_Medio_**
 
 ## Instrucciones
 
